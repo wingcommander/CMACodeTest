@@ -1,0 +1,14 @@
+The CMA code test was written in Visual Studio 2008 using the 3.5 framework
+
+The application has been written as a windows form
+
+Instructions:
+
+1.	Open the CMA Code Test.sln file
+2.	Re-build Solution
+3.	Start the application (F5)
+4.	Select the required matches
+5.	Click the ‘Match’ button
+6.	Results will be displayed underneath
+
+The solution also has a number of unit tests which you can run to verify acceptance criteria (Test, Run, All Tests in Solution)

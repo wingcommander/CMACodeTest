@@ -1,0 +1,182 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="Test" priority="0" />
+      <Item value="text" priority="9" />
+      <Item value="public" priority="8" />
+      <Item value="void" priority="2" />
+      <Item value="test" priority="1" />
+      <Item value="var" priority="5" />
+      <Item value="new" priority="11" />
+      <Item value="using" priority="6" />
+      <Item value="val" priority="2" />
+      <Item value="string" priority="10" />
+      <Item value="System" priority="1" />
+      <Item value="Text" priority="1" />
+      <Item value="this" priority="3" />
+      <Item value="char" priority="1" />
+      <Item value="static" priority="3" />
+      <Item value="int" priority="9" />
+      <Item value="for" priority="3" />
+      <Item value="startPos" priority="1" />
+      <Item value="if" priority="8" />
+      <Item value="subText" priority="1" />
+      <Item value="i" priority="7" />
+      <Item value="jk" priority="1" />
+      <Item value="StringBuilder" priority="1" />
+      <Item value="match" priority="2" />
+      <Item value="return" priority="2" />
+      <Item value="Assert" priority="2" />
+      <Item value="NonSerializedAttribute" priority="1" />
+      <Item value="InternalTestFailureException" priority="1" />
+      <Item value="results" priority="1" />
+      <Item value="foreach" priority="3" />
+      <Item value="in" priority="0" />
+      <Item value="expectedResults" priority="1" />
+      <Item value="Length" priority="0" />
+      <Item value="iteration" priority="0" />
+      <Item value="Processor" priority="5" />
+      <Item value="processor" priority="2" />
+      <Item value="CMA.Code" priority="3" />
+      <Item value="TextProcessor" priority="1" />
+      <Item value="Helper" priority="0" />
+      <Item value="subTextCollection" priority="0" />
+      <Item value="CheckedListBox" priority="0" />
+      <Item value="Diagnostics" priority="0" />
+      <Item value="ConsoleTraceListener" priority="0" />
+      <Item value="indexChecked" priority="0" />
+      <Item value="result" priority="3" />
+      <Item value="else" priority="0" />
+      <Item value="List" priority="1" />
+      <Item value="Entities" priority="0" />
+      <Item value="Result" priority="6" />
+      <Item value="ArrayList" priority="4" />
+      <Item value="output" priority="0" />
+      <Item value="CollectionBase" priority="0" />
+      <Item value="CollectionAssert" priority="0" />
+      <Item value="IList" priority="4" />
+      <Item value="outPut" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CMA.Code.Test.text">
+      <Item value="Value" priority="1" />
+      <Item value="match" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="IndexOf" priority="0" />
+      <Item value="Length" priority="5" />
+      <Item value="Equals" priority="0" />
+      <Item value="ToLower" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Text.StringBuilder">
+      <Item value="Append" priority="0" />
+      <Item value="ToString" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.VisualStudio.TestTools.UnitTesting.Assert">
+      <Item value="AreEqual" priority="4" />
+      <Item value="AreSame" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Tests.UnitTest1">
+      <Item value="text" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.VisualStudio.TestTools.UnitTesting.CollectionAssert">
+      <Item value="AreEqual" priority="0" />
+      <Item value="AreEquivalent" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@CMA.Code.Test.TextHelper">
+      <Item value="Match" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CMA.Code.Processor.TextProcessor">
+      <Item value="MatchText" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CMA.Code.App.TestForm">
+      <Item value="subText" priority="3" />
+      <Item value="text" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TextBox">
+      <Item value="ToString" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.CheckedListBox">
+      <Item value="Items" priority="3" />
+      <Item value="CheckedIndices" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="ToString" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CMA.Code.Entities.Result">
+      <Item value="OutPut" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.ArrayList">
+      <Item value="Count" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.IList">
+      <Item value="Add" priority="0" />
+      <Item value="Indexer" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="A130BB47-C0FE-4906-98C9-F9FDF5646DCB/f:Program.cs" caret="0" fromTop="0" />
+      <File id="A130BB47-C0FE-4906-98C9-F9FDF5646DCB/f:TestForm.Designer.cs" caret="505" fromTop="14" />
+      <File id="A130BB47-C0FE-4906-98C9-F9FDF5646DCB/f:TestForm.cs" caret="414" fromTop="0" />
+      <File id="30E26485-C981-4657-A59E-012FBD6F1B78/f:UnitTest.cs" caret="0" fromTop="0" />
+      <File id="7521BDD4-AA67-46F2-938D-46BB0D7CBD58/f:TextProcessor.cs" caret="0" fromTop="0" />
+      <File id="AAF4CD2D-BDED-4CBF-AEA6-412854A101E7/f:TextHelper.cs" caret="0" fromTop="0" />
+      <File id="ABE1E5DD-D6F4-4BCD-A3D0-FE031ED785F4/f:Results.cs" caret="531" fromTop="17" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="7521BDD4-AA67-46F2-938D-46BB0D7CBD58/f:TextProcessor.cs" caret="217" fromTop="10" />
+      <File id="7521BDD4-AA67-46F2-938D-46BB0D7CBD58/f:TextProcessor.cs" caret="1297" fromTop="19" />
+      <File id="7521BDD4-AA67-46F2-938D-46BB0D7CBD58/f:TextProcessor.cs" caret="1309" fromTop="7" />
+      <File id="7521BDD4-AA67-46F2-938D-46BB0D7CBD58/f:TextProcessor.cs" caret="758" fromTop="1" />
+      <File id="7521BDD4-AA67-46F2-938D-46BB0D7CBD58/f:TextProcessor.cs" caret="1096" fromTop="7" />
+      <File id="A130BB47-C0FE-4906-98C9-F9FDF5646DCB/f:TestForm.cs" caret="455" fromTop="12" />
+      <File id="AAF4CD2D-BDED-4CBF-AEA6-412854A101E7/f:TextHelper.cs" caret="678" fromTop="15" />
+      <File id="7521BDD4-AA67-46F2-938D-46BB0D7CBD58/f:TextProcessor.cs" caret="720" fromTop="7" />
+      <File id="30E26485-C981-4657-A59E-012FBD6F1B78/f:UnitTest.cs" caret="3231" fromTop="11" />
+      <File id="30E26485-C981-4657-A59E-012FBD6F1B78/f:UnitTest.cs" caret="3529" fromTop="22" />
+      <File id="30E26485-C981-4657-A59E-012FBD6F1B78/f:UnitTest.cs" caret="190" fromTop="4" />
+      <File id="30E26485-C981-4657-A59E-012FBD6F1B78/f:UnitTest.cs" caret="4935" fromTop="12" />
+      <File id="30E26485-C981-4657-A59E-012FBD6F1B78/f:UnitTest.cs" caret="4790" fromTop="25" />
+      <File id="ABE1E5DD-D6F4-4BCD-A3D0-FE031ED785F4/f:Results.cs" caret="531" fromTop="19" />
+      <File id="ABE1E5DD-D6F4-4BCD-A3D0-FE031ED785F4/f:Results.cs" caret="518" fromTop="18" />
+      <File id="ABE1E5DD-D6F4-4BCD-A3D0-FE031ED785F4/f:Results.cs" caret="649" fromTop="17" />
+      <File id="30E26485-C981-4657-A59E-012FBD6F1B78/f:UnitTest.cs" caret="4752" fromTop="24" />
+      <File id="30E26485-C981-4657-A59E-012FBD6F1B78/f:UnitTest.cs" caret="4403" fromTop="12" />
+      <File id="30E26485-C981-4657-A59E-012FBD6F1B78/f:UnitTest.cs" caret="4793" fromTop="20" />
+      <File id="30E26485-C981-4657-A59E-012FBD6F1B78/f:UnitTest.cs" caret="4959" fromTop="16" />
+      <File id="30E26485-C981-4657-A59E-012FBD6F1B78/f:UnitTest.cs" caret="4889" fromTop="5" />
+      <File id="30E26485-C981-4657-A59E-012FBD6F1B78/f:UnitTest.cs" caret="3917" fromTop="7" />
+      <File id="7521BDD4-AA67-46F2-938D-46BB0D7CBD58/f:TextProcessor.cs" caret="292" fromTop="11" />
+      <File id="7521BDD4-AA67-46F2-938D-46BB0D7CBD58/f:TextProcessor.cs" caret="1014" fromTop="12" />
+      <File id="30E26485-C981-4657-A59E-012FBD6F1B78/f:UnitTest.cs" caret="5238" fromTop="19" />
+      <File id="30E26485-C981-4657-A59E-012FBD6F1B78/f:UnitTest.cs" caret="5532" fromTop="27" />
+      <File id="30E26485-C981-4657-A59E-012FBD6F1B78/f:UnitTest.cs" caret="4975" fromTop="8" />
+      <File id="30E26485-C981-4657-A59E-012FBD6F1B78/f:UnitTest.cs" caret="5550" fromTop="13" />
+      <File id="30E26485-C981-4657-A59E-012FBD6F1B78/f:UnitTest.cs" caret="5405" fromTop="7" />
+      <File id="30E26485-C981-4657-A59E-012FBD6F1B78/f:UnitTest.cs" caret="3785" fromTop="1" />
+    </RecentEdits>
+  </RecentFiles>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerMSTest>
+    <UseTestRunConfigFromMetadataFile>False</UseTestRunConfigFromMetadataFile>
+  </UnitTestRunnerMSTest>
+</Configuration>

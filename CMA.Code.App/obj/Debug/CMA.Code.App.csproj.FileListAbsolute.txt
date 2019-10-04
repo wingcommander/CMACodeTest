@@ -1,0 +1,14 @@
+C:\Temp\CODE_TEST_GARVAN_JONES\CMA Code Test\CMA.Code.App\bin\Debug\CMA.Code.App.exe
+C:\Temp\CODE_TEST_GARVAN_JONES\CMA Code Test\CMA.Code.App\bin\Debug\CMA.Code.App.pdb
+C:\Temp\CODE_TEST_GARVAN_JONES\CMA Code Test\CMA.Code.App\bin\Debug\CMA.Code.Entities.dll
+C:\Temp\CODE_TEST_GARVAN_JONES\CMA Code Test\CMA.Code.App\bin\Debug\CMA.Code.Processor.dll
+C:\Temp\CODE_TEST_GARVAN_JONES\CMA Code Test\CMA.Code.App\bin\Debug\CMA.Code.Helper.dll
+C:\Temp\CODE_TEST_GARVAN_JONES\CMA Code Test\CMA.Code.App\bin\Debug\CMA.Code.Entities.pdb
+C:\Temp\CODE_TEST_GARVAN_JONES\CMA Code Test\CMA.Code.App\bin\Debug\CMA.Code.Processor.pdb
+C:\Temp\CODE_TEST_GARVAN_JONES\CMA Code Test\CMA.Code.App\bin\Debug\CMA.Code.Helper.pdb
+C:\Temp\CODE_TEST_GARVAN_JONES\CMA Code Test\CMA.Code.App\obj\Debug\CMA.Code.App.csprojResolveAssemblyReference.cache
+C:\Temp\CODE_TEST_GARVAN_JONES\CMA Code Test\CMA.Code.App\obj\Debug\CMA.Code.App.TestForm.resources
+C:\Temp\CODE_TEST_GARVAN_JONES\CMA Code Test\CMA.Code.App\obj\Debug\CMA.Code.App.Properties.Resources.resources
+C:\Temp\CODE_TEST_GARVAN_JONES\CMA Code Test\CMA.Code.App\obj\Debug\CMA.Code.App.csproj.GenerateResource.Cache
+C:\Temp\CODE_TEST_GARVAN_JONES\CMA Code Test\CMA.Code.App\obj\Debug\CMA.Code.App.exe
+C:\Temp\CODE_TEST_GARVAN_JONES\CMA Code Test\CMA.Code.App\obj\Debug\CMA.Code.App.pdb

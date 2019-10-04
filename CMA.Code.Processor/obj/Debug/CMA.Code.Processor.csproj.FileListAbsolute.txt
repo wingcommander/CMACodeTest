@@ -1,0 +1,9 @@
+C:\Temp\CODE_TEST_GARVAN_JONES\CMA Code Test\CMA.Code.Processor\bin\Debug\CMA.Code.Processor.dll
+C:\Temp\CODE_TEST_GARVAN_JONES\CMA Code Test\CMA.Code.Processor\bin\Debug\CMA.Code.Processor.pdb
+C:\Temp\CODE_TEST_GARVAN_JONES\CMA Code Test\CMA.Code.Processor\bin\Debug\CMA.Code.Entities.dll
+C:\Temp\CODE_TEST_GARVAN_JONES\CMA Code Test\CMA.Code.Processor\bin\Debug\CMA.Code.Helper.dll
+C:\Temp\CODE_TEST_GARVAN_JONES\CMA Code Test\CMA.Code.Processor\bin\Debug\CMA.Code.Entities.pdb
+C:\Temp\CODE_TEST_GARVAN_JONES\CMA Code Test\CMA.Code.Processor\bin\Debug\CMA.Code.Helper.pdb
+C:\Temp\CODE_TEST_GARVAN_JONES\CMA Code Test\CMA.Code.Processor\obj\Debug\CMA.Code.Processor.csprojResolveAssemblyReference.cache
+C:\Temp\CODE_TEST_GARVAN_JONES\CMA Code Test\CMA.Code.Processor\obj\Debug\CMA.Code.Processor.dll
+C:\Temp\CODE_TEST_GARVAN_JONES\CMA Code Test\CMA.Code.Processor\obj\Debug\CMA.Code.Processor.pdb

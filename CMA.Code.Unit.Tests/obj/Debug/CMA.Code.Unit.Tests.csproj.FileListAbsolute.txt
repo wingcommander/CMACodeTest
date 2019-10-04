@@ -1,0 +1,17 @@
+C:\Temp\CODE_TEST_GARVAN_JONES\CMA Code Test\CMA.Code.Unit.Tests\obj\Debug\CMA.Code.Unit.Tests.csprojResolveAssemblyReference.cache
+C:\Temp\CODE_TEST_GARVAN_JONES\CMA Code Test\CMA.Code.Unit.Tests\bin\Debug\CMA.Code.Unit.Tests.dll
+C:\Temp\CODE_TEST_GARVAN_JONES\CMA Code Test\CMA.Code.Unit.Tests\bin\Debug\CMA.Code.Unit.Tests.pdb
+C:\Temp\CODE_TEST_GARVAN_JONES\CMA Code Test\CMA.Code.Unit.Tests\bin\Debug\CMA.Code.App.exe
+C:\Temp\CODE_TEST_GARVAN_JONES\CMA Code Test\CMA.Code.Unit.Tests\bin\Debug\CMA.Code.Entities.dll
+C:\Temp\CODE_TEST_GARVAN_JONES\CMA Code Test\CMA.Code.Unit.Tests\bin\Debug\CMA.Code.Helper.dll
+C:\Temp\CODE_TEST_GARVAN_JONES\CMA Code Test\CMA.Code.Unit.Tests\bin\Debug\CMA.Code.Processor.dll
+C:\Temp\CODE_TEST_GARVAN_JONES\CMA Code Test\CMA.Code.Unit.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Temp\CODE_TEST_GARVAN_JONES\CMA Code Test\CMA.Code.Unit.Tests\bin\Debug\CMA.Code.App.pdb
+C:\Temp\CODE_TEST_GARVAN_JONES\CMA Code Test\CMA.Code.Unit.Tests\bin\Debug\CMA.Code.Entities.pdb
+C:\Temp\CODE_TEST_GARVAN_JONES\CMA Code Test\CMA.Code.Unit.Tests\bin\Debug\CMA.Code.Helper.pdb
+C:\Temp\CODE_TEST_GARVAN_JONES\CMA Code Test\CMA.Code.Unit.Tests\bin\Debug\CMA.Code.Processor.pdb
+C:\Temp\CODE_TEST_GARVAN_JONES\CMA Code Test\CMA.Code.Unit.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Temp\CODE_TEST_GARVAN_JONES\CMA Code Test\CMA.Code.Unit.Tests\bin\Debug\CMA.Code.App_Accessor.exe
+C:\Temp\CODE_TEST_GARVAN_JONES\CMA Code Test\CMA.Code.Unit.Tests\bin\Debug\CMA.Code.App_Accessor.pdb
+C:\Temp\CODE_TEST_GARVAN_JONES\CMA Code Test\CMA.Code.Unit.Tests\obj\Debug\CMA.Code.Unit.Tests.dll
+C:\Temp\CODE_TEST_GARVAN_JONES\CMA Code Test\CMA.Code.Unit.Tests\obj\Debug\CMA.Code.Unit.Tests.pdb

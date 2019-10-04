@@ -1,0 +1,5 @@
+C:\Temp\CODE_TEST_GARVAN_JONES\CMA Code Test\CMA.Code.Helper\bin\Debug\CMA.Code.Helper.dll
+C:\Temp\CODE_TEST_GARVAN_JONES\CMA Code Test\CMA.Code.Helper\bin\Debug\CMA.Code.Helper.pdb
+C:\Temp\CODE_TEST_GARVAN_JONES\CMA Code Test\CMA.Code.Helper\obj\Debug\CMA.Code.Helper.dll
+C:\Temp\CODE_TEST_GARVAN_JONES\CMA Code Test\CMA.Code.Helper\obj\Debug\CMA.Code.Helper.pdb
+C:\Temp\CODE_TEST_GARVAN_JONES\CMA Code Test\CMA.Code.Helper\obj\Debug\CMA.Code.Helper.csprojResolveAssemblyReference.cache

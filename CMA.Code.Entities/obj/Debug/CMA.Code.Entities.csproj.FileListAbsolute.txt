@@ -1,0 +1,5 @@
+C:\Temp\CODE_TEST_GARVAN_JONES\CMA Code Test\CMA.Code.Entities\bin\Debug\CMA.Code.Entities.dll
+C:\Temp\CODE_TEST_GARVAN_JONES\CMA Code Test\CMA.Code.Entities\bin\Debug\CMA.Code.Entities.pdb
+C:\Temp\CODE_TEST_GARVAN_JONES\CMA Code Test\CMA.Code.Entities\obj\Debug\CMA.Code.Entities.dll
+C:\Temp\CODE_TEST_GARVAN_JONES\CMA Code Test\CMA.Code.Entities\obj\Debug\CMA.Code.Entities.pdb
+C:\Temp\CODE_TEST_GARVAN_JONES\CMA Code Test\CMA.Code.Entities\obj\Debug\CMA.Code.Entities.csprojResolveAssemblyReference.cache

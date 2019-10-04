@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{300595E0-02FB-4A05-82AC-F74136AB1445}"
+	ProjectSection(SolutionItems) = preProject
+		CMA Code Test.vsmdi = CMA Code Test.vsmdi
+		CMA Code Test1.vsmdi = CMA Code Test1.vsmdi
+		CMA Code Test2.vsmdi = CMA Code Test2.vsmdi
+		CMA Code Test3.vsmdi = CMA Code Test3.vsmdi
+		LocalTestRun.testrunconfig = LocalTestRun.testrunconfig
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CMA.Code.Helper", "CMA.Code.Helper\CMA.Code.Helper.csproj", "{AAF4CD2D-BDED-4CBF-AEA6-412854A101E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CMA.Code.Unit.Tests", "CMA.Code.Unit.Tests\CMA.Code.Unit.Tests.csproj", "{30E26485-C981-4657-A59E-012FBD6F1B78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CMA.Code.App", "CMA.Code.App\CMA.Code.App.csproj", "{A130BB47-C0FE-4906-98C9-F9FDF5646DCB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CMA.Code.Processor", "CMA.Code.Processor\CMA.Code.Processor.csproj", "{7521BDD4-AA67-46F2-938D-46BB0D7CBD58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CMA.Code.Entities", "CMA.Code.Entities\CMA.Code.Entities.csproj", "{ABE1E5DD-D6F4-4BCD-A3D0-FE031ED785F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAF4CD2D-BDED-4CBF-AEA6-412854A101E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAF4CD2D-BDED-4CBF-AEA6-412854A101E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAF4CD2D-BDED-4CBF-AEA6-412854A101E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAF4CD2D-BDED-4CBF-AEA6-412854A101E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30E26485-C981-4657-A59E-012FBD6F1B78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30E26485-C981-4657-A59E-012FBD6F1B78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30E26485-C981-4657-A59E-012FBD6F1B78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30E26485-C981-4657-A59E-012FBD6F1B78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A130BB47-C0FE-4906-98C9-F9FDF5646DCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A130BB47-C0FE-4906-98C9-F9FDF5646DCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A130BB47-C0FE-4906-98C9-F9FDF5646DCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A130BB47-C0FE-4906-98C9-F9FDF5646DCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7521BDD4-AA67-46F2-938D-46BB0D7CBD58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7521BDD4-AA67-46F2-938D-46BB0D7CBD58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7521BDD4-AA67-46F2-938D-46BB0D7CBD58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7521BDD4-AA67-46F2-938D-46BB0D7CBD58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABE1E5DD-D6F4-4BCD-A3D0-FE031ED785F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABE1E5DD-D6F4-4BCD-A3D0-FE031ED785F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABE1E5DD-D6F4-4BCD-A3D0-FE031ED785F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABE1E5DD-D6F4-4BCD-A3D0-FE031ED785F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = CMA Code Test3.vsmdi
+	EndGlobalSection
+EndGlobal
